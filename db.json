@@ -1,0 +1,22 @@
+{
+  "productos": [
+    {
+      "name": "Nintendo Switch",
+      "price": "$ 1,300",
+      "image": "https://m.media-amazon.com/images/I/513xauPhgWL._AC_SL1500_.jpg",
+      "id": "1"
+    },
+    {
+      "name": "Play Station 5",
+      "price": "$ 8,000",
+      "image": "https://m.media-amazon.com/images/I/61+gjRmdMfL._AC_SL1500_.jpg",
+      "id": "2"
+    },
+    {
+      "name": "Control inalambrico black edition",
+      "price": "$ 1,300",
+      "image": "https://m.media-amazon.com/images/I/61oYPSnBRKS._AC_SL1500_.jpg",
+      "id": "3"
+    }
+  ]
+}
